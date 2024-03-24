@@ -1,3 +1,0 @@
-/home/kevin/PointCloudProcessing/build/CMakeFiles/rebuild_cache.dir
-/home/kevin/PointCloudProcessing/build/CMakeFiles/edit_cache.dir
-/home/kevin/PointCloudProcessing/build/CMakeFiles/region_growing.dir
